@@ -1,0 +1,115 @@
+[[libfacedetection]]
+arch = "aarch64"
+git-tree-sha1 = "c87811aef21885778766999118fda3a48fae39b7"
+libc = "glibc"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "b0b3e9b2bbd1d96f7c15f567fb2d5b1779c72c34f61afb13b60c1d4415fd8d5c"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[libfacedetection]]
+arch = "aarch64"
+git-tree-sha1 = "48309e16e1a0c41436fd5470425f456e08ae1428"
+libc = "musl"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "9244dc6b04ddaf16d83a5f078c1dd84133f1fc26352d8dbba5771782c09f3a09"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.aarch64-linux-musl.tar.gz"
+[[libfacedetection]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a9fe0704b3a65206cdf2e3f40e4e083bb32e16f"
+libc = "glibc"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "e1fe017d35e5fa1cc19747c4432d13df10f5062cc77d692f22c67ff872b73860"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[libfacedetection]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "86699b439a57c3a33bd4a5ef5c8209b3557687fa"
+libc = "musl"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "33e0369de669c25e28cfd7ab63f950f6dbea3f77013fbca8bff02e4fa68af8a2"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[libfacedetection]]
+arch = "i686"
+git-tree-sha1 = "2bfd71ee11aac309ce80836f09a497e0029df9a9"
+libc = "glibc"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "1726cf82fb973e8d2e0a65f29a127da3836ab0b2b9d99536615087c3bca1a0c3"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.i686-linux-gnu.tar.gz"
+[[libfacedetection]]
+arch = "i686"
+git-tree-sha1 = "2967369c1cf6823fa96911f8aafe28cdb001110f"
+libc = "musl"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "834ce7ee544448510c9130cdb61e929ba7ec613c4a256643acdadd531f165745"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.i686-linux-musl.tar.gz"
+[[libfacedetection]]
+arch = "i686"
+git-tree-sha1 = "e2a5bd3cb4b553db9b7ae2725e66d2bfdc6dcd52"
+os = "windows"
+
+    [[libfacedetection.download]]
+    sha256 = "27a6082b426ac0933a2011ece38333e6cb2ff51de35e599b3f4b88f59b943cef"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.i686-w64-mingw32.tar.gz"
+[[libfacedetection]]
+arch = "powerpc64le"
+git-tree-sha1 = "87c9c6f23140009ffa59c36a408b9e5d9076315c"
+libc = "glibc"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "3c7b0a48a931bee5e2bc456c552691af2ba2f571461f4f31edb4c8a2bc679bb6"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[libfacedetection]]
+arch = "x86_64"
+git-tree-sha1 = "01b5e83767e3e763c8d940be537cce78f375c4c4"
+os = "macos"
+
+    [[libfacedetection.download]]
+    sha256 = "79d8adae51cbc818ce38879a35883b1f44a71421d606492bdd26b120ec4c479d"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.x86_64-apple-darwin.tar.gz"
+[[libfacedetection]]
+arch = "x86_64"
+git-tree-sha1 = "3fab7dcfab4ed3e074e90b10858e375ad2ddd2fc"
+libc = "glibc"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "f44c1ec7ac88825c12796d24d45b0a2dd24d5c485e2d9aa3c62752c3e0955e0a"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[libfacedetection]]
+arch = "x86_64"
+git-tree-sha1 = "65927fb229ed931489bd7eb5114f6f62009a7ee6"
+libc = "musl"
+os = "linux"
+
+    [[libfacedetection.download]]
+    sha256 = "1cfd6c1c27604ad997589294b7f39164a6c6b9dc6554e764f37c696170c8bf0c"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.x86_64-linux-musl.tar.gz"
+[[libfacedetection]]
+arch = "x86_64"
+git-tree-sha1 = "45538f54fbfb8da76651e416ac098d9b33421108"
+os = "freebsd"
+
+    [[libfacedetection.download]]
+    sha256 = "e649f737af109274f270301ce23eca30eaf776904bd2047c946ce588c12d833e"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.x86_64-unknown-freebsd.tar.gz"
+[[libfacedetection]]
+arch = "x86_64"
+git-tree-sha1 = "010446e2fdab42de5143605533c399420d85e9f9"
+os = "windows"
+
+    [[libfacedetection.download]]
+    sha256 = "fd2c54222143be4f08a2a7359f3c75a3976c4e8928269772156b52890218cc61"
+    url = "https://github.com/JuliaBinaryWrappers/libfacedetection_jll.jl/releases/download/libfacedetection-v3.0.0+0/libfacedetection.v3.0.0.x86_64-w64-mingw32.tar.gz"
